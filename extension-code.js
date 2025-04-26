@@ -24,7 +24,7 @@
           {
               opcode: "Prompt",
               blockType: Scratch.BlockType.REPORTER,
-              text: "prompt [text], по умолчанию [classic]",
+              text: "prompt [text], default value: [classic]",
               arguments: {
                 text: {
                   defaultValue: "what's your name?",
