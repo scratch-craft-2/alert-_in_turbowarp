@@ -7,7 +7,7 @@
         );
         return {
           id: "htmlalert",
-          name: "Модальные окна взаимодействия",
+          name: "modals",
           color1: "#a3c0e1",
           blocks: [
             {
